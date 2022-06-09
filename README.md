@@ -6,22 +6,27 @@ Pre-requisites:
 
 ## Steps to follow for execution:
 
-1. Create a virtual environment in the directory
+### 1. Create a virtual environment in the directory
 
     python -m venv venv
 
-2. Activate the virtual environment
+### 2. Activate the virtual environment
 
     venv\Scripts\activate
 
-3. Install all the required packages
+###  or use 
+
+    source venv/bin/activate
+
+
+### 3. Install all the required packages
    
    pip install -r requirements.txt
 
-4. Run the application
+### 4. Run the application
 
     python main.py
 
-5. Go the link to try out the methods
+### 5. Go the link to try out the methods
 
     http://localhost:8000/docs
