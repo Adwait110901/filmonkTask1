@@ -1,8 +1,8 @@
 # Readme file to run the code
 
-Pre-requisites:
-1. The system should be installed with python
-2. The system should have mongo db compass running on the default port 27017
+## Pre-requisites:
+### 1. The system should be installed with python
+### 2. The system should have mongo db compass running on the default port 27017
 
 ## Steps to follow for execution:
 
@@ -14,14 +14,14 @@ Pre-requisites:
 
     venv\Scripts\activate
 
-###  or use 
+###  Or use 
 
     source venv/bin/activate
 
 
 ### 3. Install all the required packages
    
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 ### 4. Run the application
 
